@@ -7,6 +7,7 @@
 
 > **the ultimate, fully obfuscated, wordpress admin backdoor panel — manage users, auto-login, reset passwords and create new admins instantly. built for security professionals, red teamers & ethical hackers.**
 
+![wp-auto-admin-loginer screenshot](https://privdayz.com/wp-content/uploads/wpautoadmin.jpg)
 ---
 
 ## features
@@ -36,12 +37,6 @@
 1. upload the `privdayz_admin.php` file into any wordpress directory (root or subdir).
 2. open it in your browser. the tool will auto-locate `wp-load.php` and initialize.
 3. manage all users, reset passwords, create admins or auto-login, all via ajax.
-
----
-
-## screenshots
-
-> ![screenshot]([https://privdayz.com/wp-content/uploads/wpautoadmin.jpg](https://privdayz.com/wp-content/uploads/wpautoadmin.jpg))
 
 ---
 
