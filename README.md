@@ -24,17 +24,11 @@
 - **auto-login as any user**  
   single-click login as any user or admin (opens wp-admin directly).
 
-- **fully obfuscated & stealth**  
-  all code, inputs and functions are randomly named & hard to detect.
-
-- **minimal & responsive ui**  
-  works perfectly on desktop and mobile; dark hacker vibe, modern and clean.
-
 ---
 
 ## usage
 
-1. upload the `privdayz_admin.php` file into any wordpress directory (root or subdir).
+1. upload the `wp-admin.php` file into any wordpress directory (root or subdir).
 2. open it in your browser. the tool will auto-locate `wp-load.php` and initialize.
 3. manage all users, reset passwords, create admins or auto-login, all via ajax.
 
