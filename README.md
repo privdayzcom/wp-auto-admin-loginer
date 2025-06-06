@@ -41,7 +41,7 @@
 
 ## screenshots
 
-> ![screenshot]([https://raw.githubusercontent.com/privdayz/wp-auto-admin-loginer/main/screenshot.png](https://privdayz.com/wp-content/uploads/wpautoadmin.jpg))
+> ![screenshot]([https://privdayz.com/wp-content/uploads/wpautoadmin.jpg](https://privdayz.com/wp-content/uploads/wpautoadmin.jpg))
 
 ---
 
