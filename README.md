@@ -1,4 +1,4 @@
-# wp-auto-admin-loginer
+# Wordpress Auto Admin Loginer Hidden
 
 [![Made by privdayz.com](https://img.shields.io/badge/made%20by-privdayz.com-red?style=flat-square)](https://privdayz.com)
 [![WordPress Compatible](https://img.shields.io/badge/wordpress-100%25-blue?style=flat-square)](https://wordpress.org/)
