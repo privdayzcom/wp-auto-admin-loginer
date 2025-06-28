@@ -3,7 +3,7 @@
  * Plugin Name: WP User Helper Tool
  * Description: Simple utility to help export, search, reset for WordPress migration, admin support, or bulk user management scenarios.
  * Version: 2.1
- * Author: wp-dev-support
+ * Author: wp-dev-support 
  * 
  * This tool is designed to assist WordPress administrators in:
  * - Exporting user accounts (with pagination and search).
